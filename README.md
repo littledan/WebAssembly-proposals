@@ -73,4 +73,4 @@ Please see [Contributing to WebAssembly](https://github.com/WebAssembly/spec/blo
 [exception_handling]: https://github.com/webassembly/exception-handling/blob/master/proposals/level-1.md 
 [fixed-width_simd]: https://github.com/webassembly/simd/blob/master/proposals/simd/simd.md
 [threads]: https://github.com/webassembly/threads/blob/master/proposals/threads/overview.md
-[Unmanaged closures]: https://github.com/WebAssembly/design/issues/1182
+[unmanaged_closures]: https://github.com/WebAssembly/design/issues/1182
