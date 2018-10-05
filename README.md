@@ -37,7 +37,7 @@ Proposals follow [this process document](https://github.com/WebAssembly/meetings
 | -------------------------------------------------------------------------------------------------|-----------------------------|
 | [Bulk memory operations][bulk_memory_operations]                                                 | Ben Smith                   |
 | [Custom Annotation Syntax in the Text Format][custom_annotation_syntax_in_the_text_format]       | Andreas Rossberg            |
-| [ECMAScript module integration][ecmascript_module_integration]                                   | Link Clark                  |
+| [ECMAScript module integration][ecmascript_module_integration]                                   | Lin Clark                  |
 | [Exception handling][exception_handling]                                                         | Heejin Ahn                  |
 | [Fixed-width SIMD][fixed-width_simd]                                                             | Peter Jensen and Arun Etm   |
 | [Garbage collection][garbage_collection]                                                         | Andreas Rossberg            |
